@@ -1,0 +1,42 @@
+body {
+    font-family: "ProductSans";
+    font-size: 15pt;
+    text-align: center;
+    background-color: #000022;
+    color: #FFFFFF;
+}
+@font-face {
+    font-family: "ProductSans";
+    src: url(fonts/ProductSansRegular.ttf);
+}
+.contents {
+    background-color: #222255;
+}
+.lemonade {
+    background-color: #666600;
+    border: 3px outset #FFFF00;
+}
+.money {
+    background-color: #006600;
+    border: 3px outset #00FF00;
+}
+.selling {
+    background-color: #006666;
+    border: 3px outset #00FFFF;
+}
+.bitcoin {
+    background-color: #660066;
+    border: 3px outset #FF00FF;
+}
+.gold {
+    background-color: #444400;
+    border: 3px outset #DDDD00;
+}
+.emerald {
+    background-color: #004400;
+    border: 3px outset #00DD00;
+}
+.bugatti {
+    background-color: #660000;
+    border: 3px outset #FF0000;
+}
